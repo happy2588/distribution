@@ -1,1 +1,1 @@
-http://xf.xiaocairen.net:8070/Ping
+http://223.119.31.98:8070/Ping
